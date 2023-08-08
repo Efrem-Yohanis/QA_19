@@ -102,3 +102,10 @@ let sub2= (num1, num2) => {
 }
 
 
+
+have.length
+
+
+
+
+
