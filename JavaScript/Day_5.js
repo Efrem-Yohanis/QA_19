@@ -146,3 +146,20 @@ List_number.splice(0, 0, 50);
 
 //.splice(start_position, 0, new_element...);
 console.log(List_number)
+
+let array1 = [1,2,3,4]  // 1,2,3,4  ->
+
+// ------------------------------ multi- Dimensiona array-------------------------
+
+let array2 = [ 
+              [1,2],
+              [4,5],
+              [7,8],
+              [9,0]
+            ]
+console.table(array2)
+console.log(array2[2][1])
+
+//               s      n     b    n    s
+studentInfo = ['efrem',13342,true,90.8,'A']
+            //  name   id,   status,mark ,grade
