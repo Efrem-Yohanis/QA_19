@@ -11,6 +11,9 @@ describe('xpath',()=>{
         cy.xpath("//input[@id='fname']").type("Efrem")
         cy.xpath("//input[@id='lname']").type("craft")
         cy.xpath("//input[@id='email']").type("efrem@craft.com")
+
+
+        
         
     })
 })
